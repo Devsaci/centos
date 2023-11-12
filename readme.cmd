@@ -43,3 +43,7 @@ logout
 
 sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
 $
+
+sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
+$ vagrant halt
+==> default: Attempting graceful shutdown of VM...
