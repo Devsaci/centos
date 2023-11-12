@@ -33,3 +33,7 @@ vagrant
 
 [root@localhost ~]# whoami
 root
+
+[root@localhost ~]# exit
+logout
+[vagrant@localhost ~]$
