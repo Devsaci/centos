@@ -24,4 +24,5 @@ echo '' > /etc/motd
 
 [vagrant@localhost ~]$ whoami
 vagrant
-[vagrant@localhost ~]$
+[vagrant@localhost ~]$ pwd
+/home/vagrant
