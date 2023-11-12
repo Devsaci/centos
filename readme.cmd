@@ -51,3 +51,6 @@ $ vagrant halt
 sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
 $ vagrant box list
 eurolinux-vagrant/centos-stream-9 (virtualbox, 9.0.31)
+
+sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
+$ cd /d/vagrant-vms/ubuntu
