@@ -47,3 +47,7 @@ $
 sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
 $ vagrant halt
 ==> default: Attempting graceful shutdown of VM...
+
+sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
+$ vagrant box list
+eurolinux-vagrant/centos-stream-9 (virtualbox, 9.0.31)
