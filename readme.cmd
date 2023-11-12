@@ -37,3 +37,9 @@ root
 [root@localhost ~]# exit
 logout
 [vagrant@localhost ~]$
+
+[vagrant@localhost ~]$ exit
+logout
+
+sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
+$
