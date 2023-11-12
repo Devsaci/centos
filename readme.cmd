@@ -21,3 +21,7 @@ Happy using.
 To delete this message use:
 echo '' > /etc/motd
 [vagrant@localhost ~]$ 
+
+[vagrant@localhost ~]$ whoami
+vagrant
+[vagrant@localhost ~]$
