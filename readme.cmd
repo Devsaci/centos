@@ -30,3 +30,6 @@ vagrant
 
 [vagrant@localhost ~]$ sudo -i
 [root@localhost ~]# 
+
+[root@localhost ~]# whoami
+root
