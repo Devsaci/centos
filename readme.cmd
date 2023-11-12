@@ -24,5 +24,9 @@ echo '' > /etc/motd
 
 [vagrant@localhost ~]$ whoami
 vagrant
+
 [vagrant@localhost ~]$ pwd
 /home/vagrant
+
+[vagrant@localhost ~]$ sudo -i
+[root@localhost ~]# 
