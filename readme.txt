@@ -63,3 +63,5 @@ $ ls -a
 ./  ../  .git/  .vagrant/  readme.txt  Vagrantfile
 sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)       
 $ ls ~/.vagrant.d/
+boxes/  gems/                 rgloader/      tmp/
+data/   insecure_private_key  setup_version
