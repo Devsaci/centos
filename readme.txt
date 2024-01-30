@@ -61,3 +61,5 @@ $ cd centos
 sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
 $ ls -a
 ./  ../  .git/  .vagrant/  readme.txt  Vagrantfile
+sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)       
+$ ls ~/.vagrant.d/
