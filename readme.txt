@@ -54,3 +54,10 @@ eurolinux-vagrant/centos-stream-9 (virtualbox, 9.0.31)
 
 sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
 $ cd /d/vagrant-vms/ubuntu
+
+sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
+$ cd centos
+
+sacid@Gen□ve MINGW64 /d/vagrant-vms/centos (main)
+$ ls -a
+./  ../  .git/  .vagrant/  readme.txt  Vagrantfile
